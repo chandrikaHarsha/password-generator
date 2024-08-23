@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+body {
+  /* background-image: linear-gradient(40deg,pink, hotpink,purple); */
+  /* background-color: #eee; */
+  /* background-repeat:no-repeat; */
+  /* height: 100vh; */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@tailwind utilities;
